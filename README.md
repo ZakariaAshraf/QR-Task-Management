@@ -50,8 +50,5 @@ Conceived as a technical challenge for a freelance opportunity, TaskQR represent
 - Firebase Authentication
 - GetX State Management
 
-## 📄 License
-This project is licensed under the MIT License.
-
 ## 🤝 Contribution
 Interested in contributing? Lets go.
